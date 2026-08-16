@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+*.png
+
+# Streamlit & secrets
+.streamlit/secrets.toml
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# Data & Models
+data/
+*.pt
+*.pth
+*.h5
+*.pkl
+*.csv
+*.xlsx
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

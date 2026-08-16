@@ -1,0 +1,8 @@
+streamlit
+sqlalchemy
+psycopg2-binary
+pandas
+Pillow
+jdatetime
+bcrypt==3.2.2
+passlib[bcrypt]
